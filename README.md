@@ -38,12 +38,12 @@ applying any adversarial training.
 ## Citation
 If you find our work or codes useful in your research, please consider citing:
 
-@article{luo2019defective,
-      title={Defective Convolutional Layers Learn Robust CNNs},
-      author={Luo, Tiange and Cai, Tianle and Zhang, Mengxiao and Chen, Siyu and He, Di and Wang, Liwei},
-      journal={arXiv preprint arXiv:1911.08432},
-      year={2019}
-}
+    @article{luo2019defective,
+          title={Defective Convolutional Layers Learn Robust CNNs},
+          author={Luo, Tiange and Cai, Tianle and Zhang, Mengxiao and Chen, Siyu and He, Di and Wang, Liwei},
+          journal={arXiv preprint arXiv:1911.08432},
+          year={2019}
+    }
 
 ## Requirements
 - Python: 2.7.14
