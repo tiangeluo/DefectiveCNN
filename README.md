@@ -37,6 +37,7 @@ applying any adversarial training.
 
 ## Citation
 If you find our work or codes useful in your research, please consider citing:
+
     @inproceedings{
           anonymous2021defective,
           title={Defective Convolutional Networks},
