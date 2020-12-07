@@ -14,7 +14,7 @@ Created by <a href="https://tiangeluo.github.io/" target="_blank">Tiange Luo</a>
 
 
 ## Introduction
-This repository is code release for this [paper](https://arxiv.org/abs/1911.08432).
+This repository is code release for this [paper](https://openreview.net/forum?id=E8fmaZwzEj).
 
 Robustness of convolutional neural networks has recently been highlighted by the
 adversarial examples, i.e., inputs added with well-designed perturbations which
