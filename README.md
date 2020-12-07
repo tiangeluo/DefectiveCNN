@@ -3,7 +3,7 @@ Created by <a href="https://tiangeluo.github.io/" target="_blank">Tiange Luo*</a
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td align="center"><img src="./imgs/origin.png" width="233" height="233" /> </td>
+    <td align="center"><img src="./imgs/original.png" width="233" height="233" /> </td>
     <td align="center"><img src="./imgs/attacked.png" width="233" height="233" /></td>
   </tr>
   <tr>
