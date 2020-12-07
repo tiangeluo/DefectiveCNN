@@ -1,4 +1,4 @@
-## Defective Convolutional Layers Learn Robust CNNs
+## Defective Convolutional Networks
 Created by <a href="https://tiangeluo.github.io/" target="_blank">Tiange Luo*</a>, <a href="https://tianle.website" target="_black">Tianle Cai*</a>, <a href="" target="_blank">Mengxiao Zhang</a>, <a href="" target="_blank">Siyu Chen</a>, <a href="https://scholar.google.com/citations?user=orVoz4IAAAAJ&hl=en" target="_blank">Di He</a> and <a href="https://scholar.google.com/citations?user=VZHxoh8AAAAJ&hl=zh-CN" target="_blank">Liwei Wang</a>
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
@@ -37,12 +37,14 @@ applying any adversarial training.
 
 ## Citation
 If you find our work or codes useful in your research, please consider citing:
-
-    @article{luo2019defective,
-          title={Defective Convolutional Layers Learn Robust CNNs},
-          author={Luo, Tiange and Cai, Tianle and Zhang, Mengxiao and Chen, Siyu and He, Di and Wang, Liwei},
-          journal={arXiv preprint arXiv:1911.08432},
-          year={2019}
+    @inproceedings{
+          anonymous2021defective,
+          title={Defective Convolutional Networks},
+          author={Anonymous},
+          booktitle={Submitted to International Conference on Learning Representations},
+          year={2021},
+          url={https://openreview.net/forum?id=E8fmaZwzEj},
+          note={under review}
     }
 
 ## Requirements
