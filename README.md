@@ -1,5 +1,5 @@
 ## Defective Convolutional Networks
-Created by <a href="https://tiangeluo.github.io/" target="_blank">Tiange Luo*</a>, <a href="https://tianle.website" target="_black">Tianle Cai*</a>, <a href="" target="_blank">Mengxiao Zhang</a>, <a href="" target="_blank">Siyu Chen</a>, <a href="https://scholar.google.com/citations?user=orVoz4IAAAAJ&hl=en" target="_blank">Di He</a> and <a href="https://scholar.google.com/citations?user=VZHxoh8AAAAJ&hl=zh-CN" target="_blank">Liwei Wang</a>
+Created by <a href="https://tiangeluo.github.io/" target="_blank">Tiange Luo</a>, <a href="https://tianle.website" target="_black">Tianle Cai</a>, <a href="" target="_blank">Mengxiao Zhang</a>, <a href="" target="_blank">Siyu Chen</a>, <a href="https://scholar.google.com/citations?user=orVoz4IAAAAJ&hl=en" target="_blank">Di He</a> and <a href="https://scholar.google.com/citations?user=VZHxoh8AAAAJ&hl=zh-CN" target="_blank">Liwei Wang</a>
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
