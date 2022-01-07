@@ -38,14 +38,11 @@ applying any adversarial training.
 ## Citation
 If you find our work or codes useful in your research, please consider citing:
 
-    @inproceedings{
-          anonymous2021defective,
+    @article{luo2019defective,
           title={Defective Convolutional Networks},
-          author={Anonymous},
-          booktitle={Submitted to International Conference on Learning Representations},
-          year={2021},
-          url={https://openreview.net/forum?id=E8fmaZwzEj},
-          note={under review}
+          author={Luo, Tiange and Cai, Tianle and Zhang, Mengxiao and Chen, Siyu and He, Di and Wang, Liwei},
+          journal={arXiv preprint arXiv:1911.08432},
+          year={2019}
     }
 
 ## Requirements
